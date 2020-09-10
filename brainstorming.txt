@@ -1,0 +1,24 @@
+# Brainstorming Ideas
+
+## Main Page
+
+### Text
+- My name
+- My current employment, including location
+- My email
+- Previous employment experience
+- Little blurb/bio about me
+- My degree
+- My awards
+- Copyright
+- Something about how C++ is my main language
+
+### Links
+- My LinkedIn profile
+- My Github profile? will it help or hurt me since there's nothing on there
+
+### Logo? Image?
+
+## Non-Programming-Related Hobbies Page?
+- photography
+- music
