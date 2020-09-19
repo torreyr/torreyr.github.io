@@ -251,6 +251,7 @@ table {
 
     @include media-query($on-palm) {
       padding-bottom: ($spacing-unit / 3);
+      padding-right: $spacing-unit;
     }
   }
 
